@@ -22,7 +22,7 @@ Welcome to the WeLoveMovies backend project! This backend application is designe
 - Other middleware packages
 
 ## Visit site here:
- [https://we-love-movies-frontend-2lyu.onrender.com/]
+ [WeLoveMovies](https://we-love-movies-frontend-2lyu.onrender.com/)
 
 
 

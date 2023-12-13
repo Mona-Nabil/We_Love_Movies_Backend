@@ -15,8 +15,8 @@ app.use(cors());
 
 // app.use("/", router);
 app.use("/movies", moviesRouter);
-app.use("/reviews", reviewsRouter);
 app.use("/theaters", theatersRouter)
+app.use("/reviews", reviewsRouter);
 
 
 // app.use(notFound);

@@ -1,6 +1,6 @@
 # WeLoveMovies - Backend
 
-Welcome to the WeLoveMovies backend project! This backend application is designed to support a frontend application by providing data about movies, theaters, and reviews. As a backend developer, you are tasked with setting up a database and building out specific routes for data access.
+Welcome to the WeLoveMovies backend project! This backend application is designed to support a frontend application by providing data about movies, theaters, and reviews.
 
 ## Project Description
 
